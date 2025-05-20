@@ -12,6 +12,13 @@ An icon to activate picture-in-picture mode is added to the toolbar. Clicking
 on this will pop out the main video into the picture-in-picture window.
 Clicking again will close the picture-in-picture window.
 
+## Configuration
+
+The `allow-same-origin` value is required in manifest for this plugin
+
+see https://developer.pexip.com/docs/infinity/web/plugins/webapp-3/sandbox-security
+
+
 ## Run for development
 
 - To be able to build the plugin, you need to comply with the following versions
