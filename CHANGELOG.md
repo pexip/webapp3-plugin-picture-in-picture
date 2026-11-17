@@ -1,6 +1,10 @@
 # Changelog
 
-## Unreleased
+## 1.0.1
+
+### Security
+
+- Updated `@pexip/plugin-api` to `22.4.1` to address CVE-2026-41907 in its `uuid` dependency.
 
 ### Removed
 
